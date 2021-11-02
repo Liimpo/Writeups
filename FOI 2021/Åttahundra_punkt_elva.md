@@ -1,7 +1,3 @@
-password123:CTF-testnet
-
-
-
 # Forensik - Åttahundra punkt elva (463 pts)
 
 In this task we get a network dump containing as the title peaks, 802.11 traffic. The goal is to decrypt the wpa protocol to be able to read the messages and hopefully find the flag in one of these messages.

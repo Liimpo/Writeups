@@ -7,6 +7,7 @@ pass: `irule42`.
 ## Exploring the website
 
 Upon entering the site we get prompted with a login form.
+
 <img src="https://raw.githubusercontent.com/Liimpo/Writeups/main/FOI%202021/images/tokfrans_1.png" alt="MarineGEO circle logo" style="height: 500px; width:400px;"/>
 
 When logged in the only information displayed to us is: 
